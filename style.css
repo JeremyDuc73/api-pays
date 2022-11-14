@@ -1,5 +1,6 @@
 .countryDiv{
     display: flex;
+    justify-content: center;
 }
 
 .clickable{
